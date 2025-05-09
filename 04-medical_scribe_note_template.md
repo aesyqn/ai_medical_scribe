@@ -1,9 +1,9 @@
 # MEDICAL SCRIBE NOTE
 
 ## SUBJECTIVE
----
 
-###Chief Complaint (CC): 
+
+*Chief Complaint (CC):*
 {A brief, direct statement from the patient describing their main reason for seeking medical care. Ideally recorded in the patient’s own words. Example: “I’ve had chest pain for two days.”}
 
 ###History of Present Illness (HPI): 
@@ -32,7 +32,7 @@
 
 
 ## OBJECTIVE
----
+
 
 ###Vital Signs: 
 {Document the patient's vital signs: Temperature (°F), Heart Rate (bpm), Blood Pressure (mmHg), Respiratory Rate, Oxygen Saturation (%), Weight (kg), Height (cm), and BMI.}
@@ -44,7 +44,7 @@
 {Include results of any labs, imaging, or diagnostics relevant to this visit. Mention reference ranges if available and briefly describe any abnormal findings.}
 
 ## ASSESSMENT
----
+
 
 ###Diagnosis / Impression: 
 {Summarize the patient’s condition(s) as concluded from the subjective and objective data. Include both primary and secondary diagnoses.}
@@ -53,7 +53,7 @@
 {If a definitive diagnosis is not established, list possible diagnoses in order of likelihood, with rationale for each.}
 
 ## PLAN
----
+
 
 ###Diagnostics / Tests Ordered: 
 {List any additional diagnostic tests ordered during this visit and the rationale behind them.}
